@@ -1,9 +1,7 @@
 <div align="center">
 
 # 𝐎𝐦𝐚𝐫 𝐀𝐧𝐠𝐮𝐢𝐚𝐧𝐨 𝐍𝐚𝐣𝐚𝐫
-
 *Electrical Engineer specialized in Embedded Systems — ARM Cortex-M, memory subsystems, and real-time firmware.*
-
 </div>
 
 ---
