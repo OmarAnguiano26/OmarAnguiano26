@@ -4,7 +4,7 @@
 
 *Electrical Engineer specialized in Embedded Systems — ARM Cortex-M, memory subsystems, and real-time firmware.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-alejandro-anguiano-najar-038350374)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-SLUG)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ie702883@gmail.com)
 
 </div>
@@ -36,6 +36,7 @@ Automatic control system for a 2-DOF helicopter rig, developed on a Kinetis K64 
 Collaborated on a multidisciplinary team to build an app that displays real-time geolocation of fuel trucks. Developed the tracking module, using a GPS/SIM unit to capture location coordinates and transmit them to the application.
 `Built With:` ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![GPS](https://img.shields.io/badge/GPS%2FGSM-1A1A1A?style=flat-square)
 🔗 [View Repo](https://github.com/OmarAnguiano26/IoT_Project)
+
 ---
 
 ### 🧰 Toolbox
@@ -67,6 +68,6 @@ Bachelor's Degree in Electronic Engineering (2015–2021) · Specialization in E
 
 <div align="center">
 
-*"The best embedded code is the code that never surprises you at 2 AM."*
+*""*
 
 </div>
