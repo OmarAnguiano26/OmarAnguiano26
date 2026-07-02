@@ -62,8 +62,11 @@ Exploring custom memory allocation strategies and low-level firmware design beyo
 ### 🎓 Education
 
 **ITESO — Instituto Tecnológico y de Estudios Superiores de Occidente**
-Bachelor's Degree in Electronic Engineering (2015–2021) 
-Specialization in Embedded Systems          (2023–2024)
+🎓 Bachelor's Degree in Electronic Engineering
+2015 – 2021
+
+📜 Specialization in Embedded Systems
+2023 – 2024
 
 ---
 
