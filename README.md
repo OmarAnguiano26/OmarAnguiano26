@@ -33,9 +33,9 @@ Collaborated on a multidisciplinary team to build an app that displays real-time
 
 ### 🧰 Toolbox
 
-**Languages:** ![C](https://img.shields.io/badge/-C%2FC++-00599C?style=flat-square&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Verilog](https://img.shields.io/badge/-Verilog%2FVHDL-8A2BE2?style=flat-square) ![MATLAB](https://img.shields.io/badge/-MATLAB-orange?style=flat-square&logo=mathworks&logoColor=white)
+**Languages:** C · Python · Verilog/VHDL · MATLAB
 
-**Platforms & Tools:** ![ARM](https://img.shields.io/badge/-ARM_Cortex--M-0091BD?style=flat-square&logo=arm&logoColor=white) MCUXpresso · VS Code · Eclipse-based IDEs
+**Platforms & Tools:** ARM · MCUXpresso · VS Code · Eclipse-based IDEs
 
 **Protocols:** UART · SPI · I2C · I2S · I3C · CAN · Ethernet · TCP/IP
 
