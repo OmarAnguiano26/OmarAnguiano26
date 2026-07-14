@@ -62,8 +62,26 @@ Exploring custom memory allocation strategies and low-level firmware design beyo
 
 ---
 
+## 📄 NXP Community Contributions
+
+As part of my role as Customer Application Engineer at NXP Semiconductors, I authored technical knowledge base articles for the NXP Community, helping engineers worldwide solve embedded memory interfacing and peripheral configuration challenges.
+
+- **[How to configure SRAM in SEMC modules for RT devices](https://community.nxp.com/t5/i-MX-RT-Crossover-MCUs-Knowledge/How-to-configure-SRAM-in-SEMC-modules-for-RT-devices/ta-p/1559581)**
+  Step-by-step guide to connecting external SRAM to i.MX RT devices via the SEMC module — covering DQSMD, IOCR, and BMCR register configuration with a working code example.
+
+- **[Everything you need to know about DQS pin on FlexSPI and SEMC interface of i.MXRT](https://community.nxp.com/t5/i-MX-RT-Crossover-MCUs-Knowledge/Everything-you-need-to-know-about-DQS-pin-on-FlexSPI-and-SEMC/ta-p/1977399)**
+  Deep dive into the DQS (data strobe) signal across FlexSPI and SEMC interfaces — configuration modes, achievable frequencies, and common PCB design pitfalls.
+
+- **[Running code from external memory with MCX N94x](https://community.nxp.com/t5/MCX-Microcontrollers-Knowledge/Running-code-from-external-memory-with-MCX-N94x/ta-p/1792204)** *(co-authored)*
+  End-to-end walkthrough of Execute-in-Place (XIP) from external NOR flash on MCX N94x using FlexSPI, SPSDK, and PFR/CMPA configuration.
+
+- **[LPC55S28 CTimer Trigger LPADC](https://community.nxp.com/t5/LPC-Microcontrollers-Knowledge/LPC55S28-CTimer-Trigger-LPADC/ta-p/1367500)**
+  Practical example of using the CTimer to trigger LPADC conversions on the LPC55S28, with a ready-to-run MCUXpresso project.
+
+🔗 Full profile: [NXP Community – Omar_Anguiano](https://community.nxp.com/t5/user/viewprofilepage/user-id/169053)
+
 <div align="center">
 
-*""*
+**
 
 </div>
